@@ -1,7 +1,6 @@
 - 👋 Hi, I’m AyushNegi
 - 👀 I’m interested in Coding...
 - 🌱 I’m currently learning Data Structures and Algorithms...
-- 📫 Contact me on Instagram @ayush_negi_912
 - ⚡ Fun fact: ... 2 + 2 = 4;
 
 <!---
